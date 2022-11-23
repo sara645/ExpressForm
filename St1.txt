@@ -1,0 +1,51 @@
+Name = Sara_gupta 
+Id = sara0645.be20@chitkara.edu.in 
+ Address = Street no.5, near new grain market, house no.408 
+ Marks of subject1 = 95 
+ Marks of subject2 = 85 
+ Marks of subject3 = 74 
+ Marks of subject4 = 84 
+ Marks of subject5  = 75 
+ Total Marks = 413 
+ Average Marks = 82.6 
+ Grade = B<br><br>Name = ugg 
+Id = sara0645.be20@chitkara.edu.in 
+ Address = fyf 
+ Marks of subject1 = 45 
+ Marks of subject2 = 45 
+ Marks of subject3 = 45 
+ Marks of subject4 = 45 
+ Marks of subject5  = 45 
+ Total Marks = 225 
+ Average Marks = 45 
+ Grade = F<br><br>Name = ugg 
+Id = sara0645.be20@chitkara.edu.in 
+ Address = fyf 
+ Marks of subject1 = 45 
+ Marks of subject2 = 45 
+ Marks of subject3 = 45 
+ Marks of subject4 = 45 
+ Marks of subject5  = 45 
+ Total Marks = 225 
+ Average Marks = 45 
+ Grade = F<br><br>Name = jhug 
+Id = sara0645.be20@chitkara.edu.in 
+ Address = giugg 
+ Marks of subject1 = 85 
+ Marks of subject2 = 86 
+ Marks of subject3 = 86 
+ Marks of subject4 = 86 
+ Marks of subject5  = 86 
+ Total Marks = 429 
+ Average Marks = 85.8 
+ Grade = B<br><br>Name = Sara_gupta 
+Id = sara0645.be20@chitkara.edu.in 
+ Address = Street no.5, near new grain market, house no.408 
+ Marks of subject1 = 45 
+ Marks of subject2 = 48 
+ Marks of subject3 = 75 
+ Marks of subject4 = 85 
+ Marks of subject5  = 94 
+ Total Marks = 347 
+ Average Marks = 69.4 
+ Grade = D<br><br>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            padding-top: 100px;
+            background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20201026/pngtree-scene-with-geometrical-forms-the-poster-model-minimal-background-render-image_437743.jpg");
+            
+
+        }
+        input{
+            width: 200px;
+        }
+        input[type="submit"]{
+            width:80px;
+            margin-left: 100px;
+        }
+        .outerDiv{
+            font-size: 1.2rem;
+            background:rgba(255,255,255,0.6);
+            border: 2px solid darkblue;
+            margin:auto auto;
+            width: 30vw;
+            padding:20px;
+            height:50vh
+        }
+        
+    </style>
+</head>
+<body >
+    <div class="outerDiv">
+    <form action="/addr" method="post">
+        <center><h2>Submission Form</h2></center>
+        <table>
+            <tr>
+                <td>
+                    <label><b>ID</b></label>
+                 </td>
+                <td>
+                    <input type="email" name="id" required/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label><b>USERNAME</b></label>
+                </td>
+                <td>
+                    <input type="text" name="username"  required/>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label><b>ADDRESS</b></label>
+                </td>
+                <td>
+                    <input type="textarea" name="add"  required>
+                </td>
+            </tr>
+           <tr>
+            <td><b>Marks:</b></td> </tr>
+
+            <tr>
+                <td >
+                    <label>SUBJECT1</label>
+                </td>
+                <td>
+                    <input type="number" name="num1" max=100 required /><br/>
+                    <!-- <br/>
+                    <input type="number" name="num3" /><br/>
+                    <input type="number" name="num4" /><br/>
+                    <input type="number" name="num5" /><br/> -->
+
+                </td>
+            </tr>
+            <tr>
+                <td>SUBJECT2</td>
+                <td><input type="number" name="num2" max=100 required /></td>
+            </tr>
+            <tr>
+                <td>SUBJECT3</td>
+                <td><input type="number" name="num3" max=100 required/></td>
+            </tr>
+            <tr>
+                <td>SUBJECT4</td>
+                <td><input type="number" name="num4" max=100 required/></td>
+            </tr>
+            <tr>
+                <td>SUBJECT5</td>
+                <td><input type="number" name="num5" max=100 required/></td>
+            </tr>
+            <!-- <tr>
+                <td>
+                    <br>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <br>
+                </td>
+            </tr><tr>
+                <td>
+                    <br>
+                </td>
+            </tr><tr>
+                <td>
+                    <br>
+                </td>
+            </tr> -->
+
+        </table>
+        <input type="submit">
+    </form>
+    </div>
+</body>
+</html>
